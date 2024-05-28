@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start ljspeech-in-javascript",
+            "type": "shell",
+            "command": "npx webpack && npx light-server -s . -p 8080"
+        }
+    ]
+}

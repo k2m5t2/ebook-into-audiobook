@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "backend"
+		}
+	],
+	"settings": {
+		"julia.environmentPath": "/Users/yunhocho/Documents/GitHub/ebook-into-audiobook"
+	}
+}
